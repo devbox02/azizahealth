@@ -1,0 +1,208 @@
+/*!
+ * Start Bootstrap - Full Width Pics HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+h1, h2, h3, h4, p {
+  font-family: 'Montserrat', sans-serif;
+}
+body {
+    margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+h1 {
+  font-size: 48px;
+  font-style: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+h2 {
+  font-size: 32px;
+  font-style: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+h3 {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+hr {
+  border-bottom: 2px;
+  text-align: left;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #00a75b;
+  text-decoration: none; 
+}
+.center {
+  text-align: center;
+}
+
+.img-edit {
+  max-height: 270px;
+  width: auto;
+}
+
+.navbar-inverse {
+  background-color: #00a75b;
+  border-color: #00a75b;
+  padding: 15px;
+}
+
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
+
+.navbar-brand img {
+  max-height: 70px;
+  margin-top: -25px;
+}
+
+.white {
+  background-color: #fff;
+}
+
+#green {
+  color: #00a75b;
+}
+
+#white {
+  color: #ffffff;
+}
+
+#white2 {
+  background-color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #fff;
+}
+
+.btn {
+  background-color: #00a75b;
+  padding: 10px 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-block {
+  width: 33%;
+}
+
+.btn-primary {
+  border: none;
+}
+
+.image-bg-fluid-height,
+.image-bg-fixed-height {
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.image-bg-fluid-height {
+	background: url('../img/cover.jpg') no-repeat center center scroll;
+    padding: 150px 0;
+    background-size: cover;
+}
+
+.image-bg-fixed-height-2 {
+	background: url('../img/cover2.jpg') no-repeat center center scroll;
+    height: 350px;
+}
+
+.image-bg-fixed-height-3 {
+	background: url('../img/cover3.jpg') no-repeat center center scroll;
+    height: 350px;
+}
+
+.image-bg-fixed-height-4 {
+	background: url('../img/cover4.jpg') no-repeat center center scroll;
+    height: 350px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-center {
+	margin: 0 auto;
+}
+
+section {
+    padding: 20px 0;
+}
+
+.section-heading {
+    margin: 10px 0px;
+    font-size: 3em;
+}
+
+.section-lead {
+    margin: 0px 0;
+}
+
+.section-paragraph {
+    margin: 10px 0;
+}
+
+footer {
+    margin: 25px 0px 0px 0px;
+    padding: 10px 0px;
+    background-color: #005730;
+    color: #fff;
+}
+
+@media(max-width:768px) {
+    section {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .section-heading {
+        font-size: 2em;
+    }
+    .navbar-brand img {
+      max-height: 50px;
+      margin-top: -25px;
+    }
+    .btn-block {
+      width: 95%;
+      font-style: bold;
+      font-family: 'Montserrat', sans-serif;
+    }
+
+    a .btn-block {
+      font-style: bold;
+    }
+
+    .image-bg-fluid-height {
+    	background: url('../img/cover.jpg') no-repeat center center scroll;
+        padding: 150px 0;
+        background-size: cover;
+    }
+
+    .image-bg-fixed-height-2 {
+    	background: url('../img/cover2.jpg') no-repeat center center scroll;
+        max-height: 350px;
+    }
+
+    .image-bg-fixed-height-3 {
+    	background: url('../img/cover3.jpg') no-repeat center center scroll;
+        max-height: 350px;
+    }
+
+    .image-bg-fixed-height-4 {
+    	background: url('../img/cover4.jpg') no-repeat center center scroll;
+        max-height: 350px;
+    }
+}
