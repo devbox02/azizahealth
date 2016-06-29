@@ -8,9 +8,9 @@
 # Site settings
 title: Aziza Health Products
 email: contact@azizahealth.com
-description: 
+description:
 baseurl: "http://azizahealth.com" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://azizahealth.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
