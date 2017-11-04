@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FoodMatrix® GPS Technology"
-date:   2016-06-29 00:17:58 -0400
+date:   2016-07-01 00:17:58 -0400
 ---
 
 WHAT MAKES FOODMATRIX® GPS BETTER?

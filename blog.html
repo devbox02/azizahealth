@@ -16,7 +16,7 @@ permalink: /blog/
               {% for post in site.posts %}
                 <div class="col-md-6">
                   <h2>
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
                   </h2>
                   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                 </div>

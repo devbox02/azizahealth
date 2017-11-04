@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understanding The Delivery System"
-date:   2016-06-29 00:17:58 -0400
+date:   2016-07-05 00:17:58 -0400
 ---
 
 In 1999, Dr Gunter Blobel, a molecular biologist from Rockefeller University, received the Nobel prize in physiology for his work on protein transportation. His work describes the movement of proteins within and between cells. Blobel's work indicates that proteins have "intrinsic signals" which act as "address tags" or "zip codes", directing proteins to particular sites. Peptide chains with particular amino acid sequences constitute these protein-specific signals. The signal will determine whether a protein will pass through a membrane to a particular site within the cell (known as an organelle) or be exported out of the cell. This understanding of protein transportation in turn illuminates our understanding of the delivery system of nutrients within the body and dramatically underlines the FoodMatrix® principle.

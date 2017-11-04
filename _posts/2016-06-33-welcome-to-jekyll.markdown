@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How are FoodMatrix® Nutrients Assembled?"
-date:   2016-06-29 00:17:58 -0400
+date:   2016-07-03 00:17:58 -0400
 ---
 
 Producing vitamins and minerals in a food form is achieved through a range of exclusive, proprietary processes. FoodMatrix® Vitamin C for example, is derived through an elaborate process, where ascorbic acid is biochemically incorporated and concentrated into a citrus extract.

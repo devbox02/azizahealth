@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What are FoodMatrix® Nutrients?"
-date:   2016-06-29 00:17:58 -0400
+date:   2016-07-02 00:17:58 -0400
 ---
 
 FoodMatrix® nutrients are vitamins and minerals embedded in a food matrix, without the water and the fiber. In the edible portions of our natural foods, vitamins and minerals are always found in protein complexes. They are never found as isolated pure molecules and they are never found to be embedded to other chemicals. Vitamins and minerals which are present in food are contained within a complexed matrix of proteins + lipids + enzymes + bioflavonoids + trace elements.

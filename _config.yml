@@ -9,7 +9,7 @@
 title: Aziza Health Products
 email: contact@azizahealth.com
 description:
-baseurl: "http://azizahealth.com" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "http://azizahealth.com" # the base hostname & protocol for your site
 
 # Build settings
